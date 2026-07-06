@@ -2,7 +2,7 @@
 
 Build with the Wan 2.7 Video API using APIDot: cURL, Node.js, polling, webhooks, pricing, and production notes in one GitHub repo.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/wan-2-7-video) | [Model Page](https://apidot.ai/models/wan-2-7-video) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/wan-2-7-video) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/wan-2-7-video) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
